@@ -1,6 +1,6 @@
 <?php
 
-namespace AliQasemzadeh\LaravelLivewireModals\Components;
+namespace Zloadmin\LaravelLivewireModals\Components;
 
 use Livewire\Component;
 
